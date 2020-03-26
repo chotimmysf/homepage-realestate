@@ -28,16 +28,21 @@ CHALLENGES
 
 Git Repository: I had issues updating this repository, as I renamed the repo (and thus interrupted the connection between my local repo and this Git repo)
 
-Debugging: As a beginner, I ran into CSS styling errors like placards not showing properly and misaligned text and did not know how to fix them.
+Image Resizing: I was confused on which CSS element was making
+the images on the "Properties on Sale" section smaller than expected. I eventually found the issue - I entered a small value
+for the CSS columns of the "properties-container" section.
 
-Ignorance and Inexperience: Unsure of what actual technologies, time, and effort is needed to create an MVP that is sufficient for a proof of concept
-
-Time Management: Keeping app development within 2 weeks scope - I spent 4 weeks on developing this app.
+Inexperience and Time Management: Unsure of what actual technologies, time, and effort behind CSS grid elements. Took an extra week to slowly
+watch the Udemy course videos to hear and see grid elements in
+action. App development took 3 weeks, rather than the targeted 2
+weeks scope.
 
 FUTURE IMPROVEMENTS
 
 Refine Skills: Review HTML/CSS elements/functions
 
+Memory: Have an idea of which part of CSS code is styling the HTML element I am looking at (ex. "properties-container" is sizing and styling the images and their layout)
+
 MENTOR
 
-Alex Cho
+<a href="https://github.com/alexsjcho" target="_blank">Alex Cho</a>
